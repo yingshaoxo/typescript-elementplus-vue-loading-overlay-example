@@ -1,6 +1,6 @@
 <template>
   <div>
-    <el-card class="box-card">
+    <el-card class="box-card vld-parent">
       <el-button class="button" type="text" @click="handleClick"
         >Click Me</el-button
       >
